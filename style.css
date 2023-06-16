@@ -1,0 +1,24 @@
+.header{
+    background-color: #fff;
+}
+.container{
+    border: 1px solid black;
+    text-align: center;
+    background-color: #CBE6C3;
+    
+}
+
+h1{
+    color: darkred;
+}
+
+.imagem-carrosel {
+    object-fit: cover;
+    object-position: 0 80%;
+   height: 400px;
+  
+   
+}
+footer{
+    background-color: gray;
+}
